@@ -24,7 +24,7 @@ namespace Task.Notification.Tests
             var formatter = new TaskItemHtmlParser();
             var result = formatter.ParseToOrderedList(tasks);
 
-            Assert.AreEqual(expectedResult, result, "Unfortunately you didn't survive the night.");
+            Assert.AreEqual(expectedResult, result);
         }
     }
 }
