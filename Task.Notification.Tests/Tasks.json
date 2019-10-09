@@ -1,0 +1,46 @@
+﻿[
+    {
+        "priority": "1",
+        "description": "Cuidar dos doguinhos"
+    },
+    {
+        "priority": "1.1",
+        "description": "Colocar água pro Geraldo"
+    },
+    {
+        "priority": "1.2",
+        "description": "Ração especial pra Shirley"
+    },
+    {
+        "priority": "1.2.1",
+        "description": "Apenas de manhã e à noite em pouca quantidade"
+    },
+    {
+        "priority": "2",
+        "description": "Abastecer dispensa"
+    },
+    {
+        "priority": "2.1",
+        "description": "Comprar ovos"
+    },
+    {
+        "priority": "2.2",
+        "description": "Fazer varejão"
+    },
+    {
+        "priority": "2.2.1",
+        "description": "Beterraba"
+    },
+    {
+        "priority": "2.2.2",
+        "description": "Melancia"
+    },
+    {
+        "priority": "2.2.3",
+        "description": "Pepino"
+    },
+    {
+        "priority": "3",
+        "description": "Estudar SOLID"
+    }
+]
